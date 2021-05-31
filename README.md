@@ -8,7 +8,7 @@ We introduce a new invariant in [Lie sphere
 
 **Note:** *to execute the notebook you may need to [install software](https://colab.research.google.com/github/vvkisil/Cycles-cross-ratio-Invitation/blob/master/Introduction/Software_installation_GUI_integration.ipynb).* 
 
- Due to a recent "upgrade" of CoLab to Python 2.7 this notebook can not be used on that cloud service. If you do not have a local installation of  [pyGiNaC](#http://moebinv.sourceforge.net/pyGiNaC.html) then you can use a [CodeOcean capsule](https://codeocean.com/capsule/9934595/tree) or visit [HTML view of this notebook](http://www1.maths.leeds.ac.uk/~kisilv/Cycles-cross-ratio-Invitation/cycles-cross-ratio-Invitation.html).
+ Due to a recent "upgrade" of CoLab to Python 2.7 this notebook can not be used on that cloud service. If you do not have a local installation of  [pyGiNaC](#http://moebinv.sourceforge.net/pyGiNaC.html) then you can use a [CodeOcean capsule](https://codeocean.com/capsule/7952650/tree/) or visit [HTML view of this notebook](http://www1.maths.leeds.ac.uk/~kisilv/Cycles-cross-ratio-Invitation/cycles-cross-ratio-Invitation.html).
 
   <a id="refKisil21"></a>
 1. V. V. Kisil. *Cycles cross ratio: an Invitation*, 2021, [arXiv:2105.05634](https://arxiv.org/abs/2105.05634).
