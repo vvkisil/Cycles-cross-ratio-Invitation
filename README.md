@@ -14,4 +14,4 @@ We introduce a new invariant in [Lie sphere
 Alternatively, visit [HTML view of this notebook](http://www1.maths.leeds.ac.uk/~kisilv/Cycles-cross-ratio-Invitation/cycles-cross-ratio-Invitation.html).
 
   <a id="refKisil21"></a>
-1. V. V. Kisil. *Cycles cross ratio: an Invitation*, 2021, [arXiv:2105.05634](https://arxiv.org/abs/2105.05634), *Elemente der Mathematik*, [doi:10.4171/EM/471](http://dx.doi.org/10.4171/EM/471).
+1. V. V. Kisil. *Cycles cross ratio: an Invitation*,  Elemente der Mathematik, **78**(2023), no.2,   pp. 49–71. [arXiv:2105.05634](https://arxiv.org/abs/2105.05634),  [doi:10.4171/EM/471](http://dx.doi.org/10.4171/EM/471).
