@@ -1,5 +1,5 @@
 # Cycles cross product: a Jupyter Notebook
-### [Vladimir V Kisil](http://www1.maths.leeds.ac.uk/~kisilv/)
+### [Vladimir V Kisil](http://v-v-kisil.rf.gd/)
 
 This notebook provides an interactive version of the paper [Ref.1](#refKisil21).
 
@@ -11,7 +11,7 @@ We introduce a new invariant in [Lie sphere
 + use Google Colab and [install software](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Introduction/Software_installation_GUI_integration.ipynb) in your cloud service;
 + use a [CodeOcean capsule](https://codeocean.com/capsule/7952650/tree/).
 
-Alternatively, visit [HTML view of this notebook](http://www1.maths.leeds.ac.uk/~kisilv/Cycles-cross-ratio-Invitation/cycles-cross-ratio-Invitation.html).
+Alternatively, visit [HTML view of this notebook](http://v-v-kisil.rf.gd/Cycles-cross-ratio-Invitation/cycles-cross-ratio-Invitation.html).
 
   <a id="refKisil21"></a>
 1. V. V. Kisil. *Cycles cross ratio: an Invitation*,  Elemente der Mathematik, **78**(2023), no.2,   pp. 49–71. [arXiv:2105.05634](https://arxiv.org/abs/2105.05634),  [doi:10.4171/EM/471](http://dx.doi.org/10.4171/EM/471).
